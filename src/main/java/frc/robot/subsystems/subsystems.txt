@@ -1,0 +1,5 @@
+- Drivetrain (setup pids, inversion, and sensor phase)
+- Elevator (setup pids, check inversions, sensor phase, and setup velocity, acceleration and setpoints)
+- Arm (setup pids, check inversions, sensor phase, and setup velocity, acceleration and setpoints)
+- Intake (set default command when finished testing for continous run, and piston directions)
+- Climb (set ramp rate and piston directions)
